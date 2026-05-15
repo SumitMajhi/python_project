@@ -15,4 +15,4 @@ An interactive payroll analytics dashboard built using Python and Streamlit.
 - Matplotlib / Streamlit Charts
 
 # To run code 
-python -m streamlit run trial.py
+python -m streamlit run salary.py
